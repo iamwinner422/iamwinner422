@@ -16,4 +16,4 @@ A human
 ![](https://github-profile-trophy.vercel.app/?username=iamwinner422&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="100px"/>
